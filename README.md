@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to be a demonstration of the skills I have obtained to this point in my Odin Project journey. This includes not only html, but also the git workflow and the command line. These last two skills will be difficult to demonstrate in the code, but I will achieve a sense of accomplishment by completing this project with new found abilities.
